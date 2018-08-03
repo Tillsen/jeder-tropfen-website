@@ -2,3 +2,10 @@ body {
     background-image: linear-gradient(to right, #1670b9, #073f7a);
     color: white;
 }
+.logo {
+    width: 150px;
+}
+
+.ask {
+    width: 200px;
+}
